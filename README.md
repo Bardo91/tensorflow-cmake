@@ -1,3 +1,5 @@
+### USE WITH tensorflow r1.3 and install protobuf and eigen befor installing tensor
+
 # tensorflow-cmake
 Integrate TensorFlow with CMake projects effortlessly.
 
